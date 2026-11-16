@@ -37,3 +37,5 @@ Dans l’architecture cible, le poste client accède à l’intranet dans la DMZ
 ## État du projet
 
 Le déploiement est resté partiel à la remise du dossier en raison de l’instabilité de certaines machines virtuelles et de dysfonctionnements logiciels. Le rapport présente les choix de conception et les vérifications fonctionnelles, notamment la connexion au domaine, la résolution DNS, l’accès aux partages et la consultation de l’intranet. Certaines captures illustrent le résultat attendu à partir d’environnements de démonstration.
+
+Fin
